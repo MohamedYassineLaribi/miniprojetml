@@ -1,0 +1,14 @@
+{
+  "n_samples": 24,
+  "holdout": {
+    "n_test": 6,
+    "accuracy": 0.5,
+    "f1_macro": 0.43333333333333335
+  },
+  "leave_one_out": {
+    "LogisticRegression": 0.20833333333333334,
+    "LinearSVC": 0.20833333333333334
+  },
+  "externe_images_texte_ideal": 0.7777777777777778,
+  "externe_audios_texte_ideal": 0.8888888888888888
+}

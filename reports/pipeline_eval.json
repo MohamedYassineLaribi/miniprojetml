@@ -1,0 +1,81 @@
+{
+  "images": {
+    "accuracy": 0.7777777777777778,
+    "similarite_moyenne": 0.8855555555555554,
+    "details": [
+      {
+        "fichier": "I01.png",
+        "attendu": "positif",
+        "predit": "neutre",
+        "confiance": 0.3755,
+        "similarite_texte": 0.86,
+        "texte_extrait": "CAPTURE AVIS CLIENT — I101.png AVIS CLIENT VÉRIFIÉ — % xx XX Livraison express et produit parfait ! Je recommanderai sans hésiter."
+      },
+      {
+        "fichier": "I02.png",
+        "attendu": "negatif",
+        "predit": "negatif",
+        "confiance": 0.4113,
+        "similarite_texte": 0.9,
+        "texte_extrait": "CAPTURE AVIS CLIENT — 102.png RÉCLAMATION COMMANDE #9921 Colis ouvert et article manquant. Service client injoignable, inadmissible !"
+      },
+      {
+        "fichier": "I03.png",
+        "attendu": "neutre",
+        "predit": "neutre",
+        "confiance": 0.6206,
+        "similarite_texte": 0.851,
+        "texte_extrait": "CAPTURE AVIS CLIENT — 103.png SUIVI DE LIVRAISON #4510 Votre colis a été déposé en point relais. Poids du paquet : 1,2 kg."
+      },
+      {
+        "fichier": "I04.png",
+        "attendu": "positif",
+        "predit": "positif",
+        "confiance": 0.6243,
+        "similarite_texte": 0.891,
+        "texte_extrait": "CAPTURE AVIS CLIENT — 104.png POST RÉSEAU SOCIAL — @ClientHeureux Incroyable qualité pour ce prix ! Merci pour la rapidité d'expédition."
+      },
+      {
+        "fichier": "I05.png",
+        "attendu": "negatif",
+        "predit": "negatif",
+        "confiance": 0.5471,
+        "similarite_texte": 0.905,
+        "texte_extrait": "CAPTURE AVIS CLIENT — 105.png CAPTURE D'ÉCRAN — RETOUR PRODUIT L'appareil ne s'allume plus après 2 jours. Très mauvaise expérience d'achat."
+      },
+      {
+        "fichier": "I06.png",
+        "attendu": "neutre",
+        "predit": "neutre",
+        "confiance": 0.5999,
+        "similarite_texte": 0.886,
+        "texte_extrait": "CAPTURE AVIS CLIENT — 106.png FICHE PRODUIT — SPÉCIFICATIONS Modèle standard livré avec câble USB. Dimensions : 20 x 15 x 5 cm."
+      },
+      {
+        "fichier": "I07.png",
+        "attendu": "positif",
+        "predit": "positif",
+        "confiance": 0.4775,
+        "similarite_texte": 0.891,
+        "texte_extrait": "CAPTURE AVIS CLIENT — 107.png NOTE DE SATISFACTION : 10/10 Superbe finition et emballage impeccable. Une boutique en ligne très fiable."
+      },
+      {
+        "fichier": "I08.png",
+        "attendu": "negatif",
+        "predit": "negatif",
+        "confiance": 0.6747,
+        "similarite_texte": 0.904,
+        "texte_extrait": "CAPTURE AVIS CLIENT — 108.png TICKET DE CAISSE / LITIGE Erreur de facturation : montant débité deux fois. Aucun remboursement reçu à ce jour."
+      },
+      {
+        "fichier": "I09.png",
+        "attendu": "neutre",
+        "predit": "negatif",
+        "confiance": 0.4372,
+        "similarite_texte": 0.882,
+        "texte_extrait": "CAPTURE AVIS CLIENT — 109.png CONFIRMATION DE RÉCEPTION Commande #7783 bien réceptionnée. Statut : Livraison terminée."
+      }
+    ]
+  },
+  "audios": null
+}
